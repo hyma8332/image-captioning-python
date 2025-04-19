@@ -24,7 +24,7 @@ nlp = spacy.load("en_core_web_sm")
 # Wikipedia API with custom user-agent
 wiki_wiki = wikipediaapi.Wikipedia(
     language='en',
-    user_agent='ImageCaptioningApp/1.0 (sasikumarbobbili@gmail.com)'
+    user_agent='ImageCaptioningApp/1.0 (hymareddy8332@gmail.com)'
 )
 
 # Google Custom Search API Configuration
